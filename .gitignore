@@ -23,3 +23,7 @@ hs_err_pid*
 
 # IDE
 .idea
+
+#gradle
+!gradle-wrapper.jar
+.gradle
